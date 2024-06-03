@@ -1,8 +1,8 @@
 [![CI with GitHub Actions using Ant and JUnit | © 2024 by ngovinhthang](https://github.com/adinngo/math-util-1625/actions/workflows/ci-junit.yml/badge.svg)](https://github.com/adinngo/math-util-1625/actions/workflows/ci-junit.yml)
 
-#Welcome to Math-Util Repository
+# Welcome to Math-Util Repository
 
-###You will find in this repo the following stuff:
+### You will find in this repo the following stuff:
 
 * The Math-util library that offers multiple math functions(a Java-based source code)
 
@@ -11,7 +11,7 @@
 * GitHub Action demonstrate the Continous Integartion (CI) technique
 * Regression Test
 * ...
-#### Screenshots
+### Screenshots
 ![DDT&TDD with JUnit](https://github.com/adinngo/math-util-1625/blob/main/images/DDT%20with%20JUnit.png)
 
 
